@@ -4,6 +4,11 @@
 }
 
 @font-face {
+  font-family: "Lato-Black";
+  src: url("../fonts/Lato/Lato-Black.ttf") format("truetype");
+}
+
+@font-face {
   font-family: "Raleway-Bold";
   src: url("../fonts/Raleway/Raleway-Bold.ttf") format("truetype");
 }
@@ -112,7 +117,7 @@ body {
 }
 
 .text-header {
-  font-family: "Lato", sans-serif;
+  font-family: "Lato-Black", sans-serif;
   font-weight: 900;
   font-size: 49px;
 }
